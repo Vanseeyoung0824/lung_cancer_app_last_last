@@ -71,7 +71,7 @@ st.markdown("""
 [data-testid="stSidebar"] input {
     background: rgba(255,255,255,0.07) !important;
     border: 1px solid rgba(255,255,255,0.15) !important;
-    color: #ffffff !important;
+    color: #000000 !important;
     border-radius: 6px !important;
 }
 [data-testid="stSidebar"] input:focus {
